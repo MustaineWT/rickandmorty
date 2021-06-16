@@ -4,14 +4,14 @@ Application developed in Flutter with multi-user order taking and with main conf
 
 - Proyect Flutter
 - Login:
-  _ Username: rick
-  _ Password: alive
+  * Username: rick
+  * Password: alive
 - Structure base example Cubit with Clean_Arquitecture
 
 <div class="row">
-  <img src="rickandmorty/assets/login.png" width="250" and height="480">
-  <img src="rickandmorty/assets/list.png" width="250" and height="480">
-  <img src="rickandmorty/assets/detail.png" width="250" and height="480">
+  <img src="assets/login.png" width="250" and height="480">
+  <img src="assets/list.png" width="250" and height="480">
+  <img src="assets/detail.png" width="250" and height="480">
 </div>
 
 # Aditional Complements
