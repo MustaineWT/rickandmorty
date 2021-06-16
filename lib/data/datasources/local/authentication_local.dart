@@ -39,7 +39,7 @@ class AuthenticationLocalDataSourcesImpl
       final int expiresIn = 3600;
       final int diff = currentDate.difference(createdAt).inSeconds;
 
-      if (expiresIn - diff >= 30) {
+      if (diff - expiresIn >= 30) {
         return 1;
       } else {
         return 0;
