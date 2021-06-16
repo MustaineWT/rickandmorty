@@ -9,9 +9,9 @@ Application developed in Flutter with multi-user order taking and with main conf
 - Structure base example Cubit with Clean_Arquitecture
 
 <div class="row">
-  <img src="ecommers_app/assets/login.png" width="250" and height="480">
-  <img src="ecommers_app/assets/list.png" width="250" and height="480">
-  <img src="ecommers_app/assets/detail.png" width="250" and height="480">
+  <img src="rickandmorty/assets/login.png" width="250" and height="480">
+  <img src="rickandmorty/assets/list.png" width="250" and height="480">
+  <img src="rickandmorty/assets/detail.png" width="250" and height="480">
 </div>
 
 # Aditional Complements
